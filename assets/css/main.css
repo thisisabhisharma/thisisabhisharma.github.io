@@ -2084,6 +2084,7 @@ input, select, textarea {
 				top: 50%;
 				white-space: nowrap;
 			}
+			
 
 			.image.thumb:hover:after {
 				opacity: 1.0;
